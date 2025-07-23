@@ -7,5 +7,4 @@ export default function Home() {
       <h1 className="text-4xl font-bold mb-4">Velkommen til $HDY</h1>
       <p className="text-lg">The future of Norwegian memecoins. 🚀</p>
     </main>
-  );
-}
+ 
